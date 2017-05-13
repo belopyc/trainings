@@ -25,6 +25,6 @@ git push origin master
 10. Если в ходе кодривью вы получили **reject**, исправьте замечания и сделайте еще один коммит и пуш в свой репозиторий (шаг 7)
 11. Для получения новых заданий (получения новых изменений из главного репозитория) нужно сделать шаги:
 ```bash
-git remote add upstream https://github.com/parkhomenko/trainings.git #эту команду только только один раз
+git remote add upstream https://github.com/parkhomenko/trainings.git #эту команду только один раз
 git pull upstream master #загружает новые изменения из главного репозитория
 ```
